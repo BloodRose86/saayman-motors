@@ -1,7 +1,4 @@
 {
-  "scripts": {
-    "start:server": "nodemon ./backend/server.js"
-  },
   "private": true,
   "dependencies": {
     "bcrypt": "^3.0.6",
